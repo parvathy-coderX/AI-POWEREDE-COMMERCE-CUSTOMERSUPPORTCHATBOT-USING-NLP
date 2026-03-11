@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Customer Support Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="fas fa-robot"></i> E-Commerce Customer Support</h1>
+            <p>Ask me anything about your orders, returns, or policies</p>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Chat Container -->
+            <div class="chat-container">
+                <div class="chat-header">
+                    <div class="chat-title">
+                        <i class="fas fa-comments"></i>
+                        <h2>Live Chat Support</h2>
+                    </div>
+                    <div class="status">
+                        <span class="status-indicator"></span>
+                        <span>Online</span>
+                    </div>
+                </div>
+
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message bot-message">
+                        <div class="message-content">
+                            <div class="message-icon">
+                                <i class="fas fa-robot"></i>
+                            </div>
+                            <div class="message-text">
+                                Hello! I'm your E-Commerce Assistant. How can I help you today? You can ask me about:
+                                <ul>
+                                    <li>Order tracking (e.g., "Track order ORD12345")</li>
+                                    <li>Return policies</li>
+                                    <li>Shipping information</li>
+                                    <li>Refund procedures</li>
+                                    <li>And more!</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="message-time">Just now</div>
+                    </div>
+                </div>
+
+                <div class="chat-input-container">
+                    <form id="chatForm">
+                        <input 
+                            type="text" 
+                            id="userInput" 
+                            placeholder="Type your message here..." 
+                            autocomplete="off"
+                            required
+                        >
+                        <button type="submit" id="sendButton">
+                            <i class="fas fa-paper-plane"></i>
+                            <span>Send</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 E-Commerce Customer Support Chatbot. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

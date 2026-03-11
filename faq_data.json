@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What is your return policy?",
+        "answer": "We offer a 30-day return policy for most items. Products must be unused and in original packaging. To initiate a return, please visit our Returns Center or contact customer support."
+    },
+    {
+        "question": "How do I start a return?",
+        "answer": "To initiate a return, please contact customer support with your order ID and the items you wish to return. You can reach us at support@ecommerce.com or call 1-800-123-4567."
+    },
+    {
+        "question": "Do I have to pay for return shipping?",
+        "answer": "Return shipping is free for defective items or if we made an error. For other returns, a small shipping fee may apply. This information will be provided when you initiate the return."
+    },
+    {
+        "question": "How long does shipping take?",
+        "answer": "Standard shipping typically takes 3-5 business days. Express shipping takes 1-2 business days. International shipping may take 7-14 business days depending on the destination."
+    },
+    {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to most countries worldwide. Shipping costs and delivery times vary by location. Please check our international shipping page for specific rates and estimated delivery times."
+    },
+    {
+        "question": "How much is shipping to Canada?",
+        "answer": "Shipping costs vary based on weight and destination. For accurate shipping costs to Canada, please add items to your cart and proceed to checkout, or contact our support team with your specific items."
+    },
+    {
+        "question": "Is there free shipping?",
+        "answer": "Yes, we offer free standard shipping on orders over $50 within the continental US. International orders and express shipping have applicable fees."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, Google Pay, and various digital wallets."
+    },
+    {
+        "question": "Can I use PayPal?",
+        "answer": "Yes, PayPal is one of our accepted payment methods. You can select it at checkout."
+    },
+    {
+        "question": "Is it safe to use my credit card?",
+        "answer": "Yes, we use industry-standard SSL encryption to protect your payment information. We are PCI-DSS compliant and never store your full credit card details on our servers."
+    },
+    {
+        "question": "Do you accept installment payments?",
+        "answer": "Currently, we accept full payment at checkout. However, we do offer \"Buy Now, Pay Later\" options through PayPal Pay in 4 and other services for eligible purchases."
+    },
+    {
+        "question": "How do I create an account?",
+        "answer": "Click on the 'Sign Up' button at the top right corner of our website. Enter your email address and create a password. You can also sign up using your Google or Facebook account."
+    },
+    {
+        "question": "I forgot my password",
+        "answer": "Click on the 'Forgot Password' link on the login page. Enter your email address, and we'll send you instructions to reset your password."
+    },
+    {
+        "question": "Can I change my shipping address after ordering?",
+        "answer": "Shipping address can be changed before the order is shipped. Log into your account, go to Orders, and click 'Edit Address' if available. For orders already shipped, we cannot modify the address."
+    },
+    {
+        "question": "Do you have a loyalty program?",
+        "answer": "Yes, we have a rewards program! You earn points on every purchase that can be redeemed for discounts on future orders. Sign up for our newsletter to get started with 100 bonus points."
+    },
+    {
+        "question": "I received a damaged item",
+        "answer": "I'm sorry to hear that! If you receive a damaged item, please contact us within 48 hours of delivery. Provide your order ID and photos of the damaged item. We'll arrange a replacement or refund immediately."
+    },
+    {
+        "question": "My order hasn't arrived yet",
+        "answer": "I understand your concern. Let me check the status. Could you please provide your order ID?"
+    },
+    {
+        "question": "I want to cancel my order",
+        "answer": "Orders can be cancelled within 1 hour of placement. Please provide your order ID and I'll check if cancellation is possible."
+    },
+    {
+        "question": "Do you have any promo codes?",
+        "answer": "Yes, we frequently offer promo codes! Current active promotions: SAVE10 for 10% off orders over $50, and FREESHIP for free shipping on orders over $75."
+    },
+    {
+        "question": "What is your price match policy?",
+        "answer": "We offer price matching within 14 days of purchase. If you find a lower price on an identical item from an authorized retailer, contact us and we'll refund the difference."
+    },
+    {
+        "question": "Do you offer student discounts?",
+        "answer": "Yes, we offer a 15% student discount! Verify your student status through StudentBeans or UNiDAYS to get your exclusive discount code."
+    },
+    {
+        "question": "Are there any deals on bulk orders?",
+        "answer": "Yes, we offer wholesale pricing for bulk orders. Please contact our B2B sales team at b2b@ecommerce.com for a customized quote."
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "You can reach our customer support team via email at support@ecommerce.com, call us at 1-800-123-4567, or use the live chat feature on our website. Support is available 24/7."
+    },
+    {
+        "question": "What are your support hours?",
+        "answer": "Our customer support is available 24 hours a day, 7 days a week! You can reach us anytime via email, phone, or live chat."
+    },
+    {
+        "question": "Is there a physical store I can visit?",
+        "answer": "Currently, we operate exclusively online. However, we're working on opening physical locations in select cities soon. Check our website for updates!"
+    },
+    {
+        "question": "How do I file a complaint?",
+        "answer": "We're sorry to hear you have a concern. Please email our customer service team at support@ecommerce.com with your order ID and details of your complaint. A manager will respond within 24 hours."
+    },
+    {
+        "question": "Can I gift wrap my order?",
+        "answer": "Yes, gift wrapping is available for most items during checkout. You can also add a personalized message. The cost is $3.99 per item."
+    },
+    {
+        "question": "Do you sell gift cards?",
+        "answer": "Yes, we offer digital and physical gift cards in denominations from $25 to $500. They never expire and can be purchased on our website."
+    },
+    {
+        "question": "Can I include a gift receipt?",
+        "answer": "Yes, you can select \"This is a gift\" at checkout to include a gift receipt that hides the prices. This option is available during the checkout process."
+    },
+    {
+        "question": "Do you offer personalized items?",
+        "answer": "Yes, select items in our store can be personalized with names or initials. Look for the \"Personalize\" option on product pages."
+    },
+    {
+        "question": "The website isn't loading properly",
+        "answer": "I'm sorry you're experiencing technical issues. Please try clearing your browser cache and cookies, or try using a different browser. If the problem persists, contact our tech support at tech@ecommerce.com."
+    },
+    {
+        "question": "I can't add items to my cart",
+        "answer": "Let me help with that. Could you try: 1. Logging out and logging back in, 2. Using incognito/private mode, 3. Disabling any ad blockers. If none of these work, please email our support team."
+    },
+    {
+        "question": "The payment keeps failing",
+        "answer": "Payment failures can occur for various reasons. Please ensure: - Your card details are correct - You have sufficient funds - Your bank isn't blocking the transaction. Contact your bank if the problem continues."
+    },
+    {
+        "question": "I didn't get a confirmation email",
+        "answer": "Please check your spam/junk folder first. If it's not there, your email might have a typo. Contact support with your order details and we'll resend the confirmation."
+    },
+    {
+        "question": "How do I track my order?",
+        "answer": "To track your order, please provide your order ID (e.g., ORD12345)."
+    },
+    {
+        "question": "When will my order arrive?",
+        "answer": "Please provide your order ID and I'll check the estimated delivery date for you."
+    },
+    {
+        "question": "What items are in my order?",
+        "answer": "Please provide your order ID and I'll list the items in your order for you."
+    },
+    {
+        "question": "How do I get a refund?",
+        "answer": "Refunds are processed within 5-7 business days after we receive and inspect your returned item. The refund will be issued to your original payment method."
+    },
+    {
+        "question": "How long until I get my refund?",
+        "answer": "Refunds are processed within 5-7 business days after we receive and inspect your returned item. The refund will be issued to your original payment method."
+    },
+    {
+        "question": "Can I return a defective item?",
+        "answer": "Yes, defective items can be returned for a full refund or replacement. Please contact us within 48 hours of delivery with your order ID and photos of the defect."
+    }
+]
